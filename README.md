@@ -1,2 +1,2 @@
 # Jogo-da-velha
-Processo de aprendizagem JavaScript
+Jogo da Velha feito em HTML CSS e JavaScript
